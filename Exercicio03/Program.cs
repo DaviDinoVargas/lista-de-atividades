@@ -15,6 +15,7 @@
                 Console.WriteLine("_______________________________________________________________");
                 Console.WriteLine("Insira A quilometragem inicial do veículo no início da viagem:  ");
                 Console.WriteLine("          A quilometragem final ao término da viagem: ");
+                Console.WriteLine("            A quantidade de combústivel connsumida: ");
                 Console.WriteLine("_______________________________________________________________\n");
                 string[] entrada = Console.ReadLine()!.Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
 

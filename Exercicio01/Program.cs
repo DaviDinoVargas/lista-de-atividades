@@ -22,7 +22,7 @@ namespace Exercicio01
                 Console.WriteLine("         |                    |    |");
                 Console.WriteLine("         |                    |    /");
                 Console.WriteLine("         |                    |   /");
-                Console.WriteLine("         |                    |  /");
+                Console.WriteLine("         |                    |  /");  
                 Console.WriteLine("         |                    | /");
                 Console.WriteLine("         |____________________|/");
                 Console.WriteLine("_________________________________________________");
