@@ -21,7 +21,7 @@
                     decimal volume = (decimal)Math.PI * (decimal)Math.Pow((double)raio, 2) * altura;
                     Console.WriteLine("_________________________________________________");
                     Console.WriteLine($"      O volume do cilindro é: {volume:F2}cm³");
-                    Console.WriteLine("_________________________________________________");
+                    Console.WriteLine("_________________________________________________\n");
                 }
                 else
                 {

@@ -38,7 +38,7 @@ namespace Exercicio01
                     decimal volume = comprimento * altura * largura;
                     Console.WriteLine("_________________________________________________");
                     Console.WriteLine($"        O volume da caixa é: {volume}cm³");
-                    Console.WriteLine("_________________________________________________");
+                    Console.WriteLine("_________________________________________________\n");
                 }
                 else
                 {
