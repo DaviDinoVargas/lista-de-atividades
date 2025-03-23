@@ -1,7 +1,4 @@
-﻿using static System.Reflection.Metadata.BlobBuilder;
-using System.Security.Cryptography;
-
-namespace Exercicio10
+﻿namespace Exercicio10
 {
     internal class Program
     {
