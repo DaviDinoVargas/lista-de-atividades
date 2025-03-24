@@ -18,21 +18,21 @@ namespace Exercicio14
                 Console.Write("Valor 1: ");
                 if (!int.TryParse(Console.ReadLine(), out a))
                 {
-                    Console.WriteLine("Entrada inválida! Tente novamente.");
+                    Console.WriteLine("Entrada inválida.");
                     continue;
                 }
 
                 Console.Write("Valor 2: ");
                 if (!int.TryParse(Console.ReadLine(), out b) || b == a)
                 {
-                    Console.WriteLine("Entrada inválida ou valor igual ao anterior! Tente novamente.");
+                    Console.WriteLine("Entrada inválida ou valor igual ao anterior.");
                     continue;
                 }
 
                 Console.Write("Valor 3: ");
                 if (!int.TryParse(Console.ReadLine(), out c) || c == a || c == b)
                 {
-                    Console.WriteLine("Entrada inválida ou valor igual aos anteriores! Tente novamente.");
+                    Console.WriteLine("Entrada inválida ou valor igual aos anteriores.");
                     continue;
                 }
 
