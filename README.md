@@ -4,9 +4,10 @@ Este repositório contém uma série de exercícios em **C#** para aprimorar a l
 
 ## 📌 Sumário
 
-1. [Cálculos Matemáticos](#cálculos-matemáticos)
-2. [Estruturas de Decisão](#estruturas-de-decisão)
-3. [Estruturas de Repetição](#estruturas-de-repetição)
+1. [Cálculos Matemáticos](#1️⃣-cálculos-matemáticos)
+2. [Estruturas de Decisão](#2️⃣-estruturas-de-decisão)
+3. [Estruturas de Repetição](#3️⃣-estruturas-de-repetição)
+
 
 ---
 
